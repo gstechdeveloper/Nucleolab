@@ -32,4 +32,4 @@ Um site desenvolvimento para empresa núcleo laboratório com muito carinho e pe
 
 
 
-![img](file:///C:/Users/gabriel.azevedo/Downloads/Captura%20de%20tela%202024-09-09%20215102.png)
+![Captura de tela 2024-09-09 215102](https://github.com/user-attachments/assets/bd744c01-d57a-46be-80cb-e490c4618e36)
