@@ -16,7 +16,7 @@ Um site desenvolvimento para empresa núcleo laboratório com muito carinho e pe
 
 
 
-###:man_technologist: Tecnologias Utilizadas:
+### :man_technologist: Tecnologias Utilizadas:
 
 - [x]  HTML e CSS 
 - [x] Framework Vue JS
@@ -24,7 +24,7 @@ Um site desenvolvimento para empresa núcleo laboratório com muito carinho e pe
 
 
 
-###:bookmark_tabs: Contato:
+### :bookmark_tabs: Contato:
 
 :name_badge: Nome do desenvolvedor: Gabriel Azevedo
 
